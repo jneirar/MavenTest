@@ -1,0 +1,7 @@
+organization=jneirar
+projectKey=MavenTest
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.23159
+dashboardUrl=https://sonarcloud.io/dashboard?id=MavenTest
+ceTaskId=AXvMtCz6GMUfLiPhnAyG
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXvMtCz6GMUfLiPhnAyG
