@@ -1,3 +1,5 @@
+package cs.ing.software.lab1;
+
 public class Vehicle {
     double quantityOfFuel = 0.0;
     double capacityOfFuel = 0;
@@ -32,9 +34,12 @@ public class Vehicle {
         this.useByKm = useByKm;
     }
 
-    public void supplying(double fuel) {}
+    public String supplying(double fuel) {
+        return Double.toString(fuel);
+    }
 
-
-    public void Trip(float kilometers) {}
+    public String trip(float kilometers) {
+        return Float.toString(kilometers);
+    }
 
 }

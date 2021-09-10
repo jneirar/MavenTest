@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-09T21:19:47 PET" name="cs.ing.software.lab1.MainTest" finished-at="2021-09-09T21:19:48 PET" duration-ms="68">
+    <groups>
+    </groups>
+    <test started-at="2021-09-09T21:19:47 PET" name="Command line test" finished-at="2021-09-09T21:19:48 PET" duration-ms="68">
+      <class name="cs.ing.software.lab1.MainTest">
+        <test-method signature="test01()[pri:0, instance:cs.ing.software.lab1.MainTest@2dc9b0f5]" started-at="2021-09-09T21:19:48 PET" name="test01" finished-at="2021-09-09T21:19:48 PET" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method signature="test02()[pri:0, instance:cs.ing.software.lab1.MainTest@2dc9b0f5]" started-at="2021-09-09T21:19:48 PET" name="test02" finished-at="2021-09-09T21:19:48 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+        <test-method signature="test04()[pri:0, instance:cs.ing.software.lab1.MainTest@2dc9b0f5]" started-at="2021-09-09T21:19:48 PET" name="test04" finished-at="2021-09-09T21:19:48 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test04 -->
+        <test-method signature="test03()[pri:0, instance:cs.ing.software.lab1.MainTest@2dc9b0f5]" started-at="2021-09-09T21:19:48 PET" name="test03" finished-at="2021-09-09T21:19:48 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03 -->
+        <test-method signature="test06()[pri:0, instance:cs.ing.software.lab1.MainTest@2dc9b0f5]" started-at="2021-09-09T21:19:48 PET" name="test06" finished-at="2021-09-09T21:19:48 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test06 -->
+        <test-method signature="test05()[pri:0, instance:cs.ing.software.lab1.MainTest@2dc9b0f5]" started-at="2021-09-09T21:19:48 PET" name="test05" finished-at="2021-09-09T21:19:48 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test05 -->
+        <test-method signature="test07()[pri:0, instance:cs.ing.software.lab1.MainTest@2dc9b0f5]" started-at="2021-09-09T21:19:48 PET" name="test07" finished-at="2021-09-09T21:19:48 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test07 -->
+        <test-method signature="test08()[pri:0, instance:cs.ing.software.lab1.MainTest@2dc9b0f5]" started-at="2021-09-09T21:19:48 PET" name="test08" finished-at="2021-09-09T21:19:48 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test08 -->
+        <test-method signature="test10()[pri:0, instance:cs.ing.software.lab1.MainTest@2dc9b0f5]" started-at="2021-09-09T21:19:48 PET" name="test10" finished-at="2021-09-09T21:19:48 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method signature="test09()[pri:0, instance:cs.ing.software.lab1.MainTest@2dc9b0f5]" started-at="2021-09-09T21:19:48 PET" name="test09" finished-at="2021-09-09T21:19:48 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test09 -->
+        <test-method signature="test11()[pri:0, instance:cs.ing.software.lab1.MainTest@2dc9b0f5]" started-at="2021-09-09T21:19:48 PET" name="test11" finished-at="2021-09-09T21:19:48 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method signature="test13()[pri:0, instance:cs.ing.software.lab1.MainTest@2dc9b0f5]" started-at="2021-09-09T21:19:48 PET" name="test13" finished-at="2021-09-09T21:19:48 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test13 -->
+        <test-method signature="test15()[pri:0, instance:cs.ing.software.lab1.MainTest@2dc9b0f5]" started-at="2021-09-09T21:19:48 PET" name="test15" finished-at="2021-09-09T21:19:48 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test15 -->
+        <test-method signature="test12()[pri:0, instance:cs.ing.software.lab1.MainTest@2dc9b0f5]" started-at="2021-09-09T21:19:48 PET" name="test12" finished-at="2021-09-09T21:19:48 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test12 -->
+        <test-method signature="test14()[pri:0, instance:cs.ing.software.lab1.MainTest@2dc9b0f5]" started-at="2021-09-09T21:19:48 PET" name="test14" finished-at="2021-09-09T21:19:48 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test14 -->
+        <test-method signature="test18()[pri:0, instance:cs.ing.software.lab1.MainTest@2dc9b0f5]" started-at="2021-09-09T21:19:48 PET" name="test18" finished-at="2021-09-09T21:19:48 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test18 -->
+        <test-method signature="test16()[pri:0, instance:cs.ing.software.lab1.MainTest@2dc9b0f5]" started-at="2021-09-09T21:19:48 PET" name="test16" finished-at="2021-09-09T21:19:48 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test16 -->
+        <test-method signature="test17()[pri:0, instance:cs.ing.software.lab1.MainTest@2dc9b0f5]" started-at="2021-09-09T21:19:48 PET" name="test17" finished-at="2021-09-09T21:19:48 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test17 -->
+        <test-method signature="test19()[pri:0, instance:cs.ing.software.lab1.MainTest@2dc9b0f5]" started-at="2021-09-09T21:19:48 PET" name="test19" finished-at="2021-09-09T21:19:48 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test19 -->
+        <test-method signature="test20()[pri:0, instance:cs.ing.software.lab1.MainTest@2dc9b0f5]" started-at="2021-09-09T21:19:48 PET" name="test20" finished-at="2021-09-09T21:19:48 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test20 -->
+      </class> <!-- cs.ing.software.lab1.MainTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- cs.ing.software.lab1.MainTest -->
+</testng-results>

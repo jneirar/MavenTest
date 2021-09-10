@@ -1,9 +1,17 @@
 
-Vehicle#getUseByKm()Dq
-gD:/Insync/UTEC/07 - 2021-2/Ingenier√≠a de Software I/S01/MavenTest/MavenTest/src/main/java/Vehicle.java ("1*Û
-1q
-gD:/Insync/UTEC/07 - 2021-2/Ingenier√≠a de Software I/S01/MavenTest/MavenTest/src/main/java/Vehicle.java ("{
-q
-gD:/Insync/UTEC/07 - 2021-2/Ingenier√≠a de Software I/S01/MavenTest/MavenTest/src/main/java/Vehicle.java (
-""B	
-Vehicle
+6cs.ing.software.lab1.Vehicle#trip(F)Ljava/lang/String;Ü
+|D:/Insync/UTEC/07 - 2021-2/Ingenier√≠a de Software I/S01/MavenTest/MavenTest/src/main/java/cs/ing/software/lab1/Vehicle.java) )("1*•
+1Ü
+|D:/Insync/UTEC/07 - 2021-2/Ingenier√≠a de Software I/S01/MavenTest/MavenTest/src/main/java/cs/ing/software/lab1/Vehicle.java* *(
+Ì
+Ü
+|D:/Insync/UTEC/07 - 2021-2/Ingenier√≠a de Software I/S01/MavenTest/MavenTest/src/main/java/cs/ing/software/lab1/Vehicle.java* *()
+%0java.lang.String"-java.lang.Float#toString(F)Ljava/lang/String;*"
+java.lang.Float*
+"""£
+Ü
+|D:/Insync/UTEC/07 - 2021-2/Ingenier√≠a de Software I/S01/MavenTest/MavenTest/src/main/java/cs/ing/software/lab1/Vehicle.java* *(*
+
+%0java.lang.String:
+""B 
+cs.ing.software.lab1.Vehicle
